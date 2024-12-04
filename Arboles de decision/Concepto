@@ -1,0 +1,4 @@
+se usa para clasificacion y regresion, serie de condiciones para predecir una situacion 
+
+consta de raiz, ramas y hojas 
+el algoritmo debe crear la estructura, hacer las preguntas mas importantes, impureza de gini, entropia, ganancia de informacion
